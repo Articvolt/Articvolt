@@ -23,6 +23,16 @@ En 2022, j'ai rejoins une formation de remise à niveau dans le domaine du numé
 
 Je cherche constamment à progresser dans les différents langages informatiques. En pratiquant régulièrement et en créant de petits projets. Mon objectif étant, plus tard, d'intégrer un service de développeur web dans une entreprise.
 
+<p align="center">
+  <br/>
+  <a href="mailto:ugodasilva67@gmail.com?subject=Bonjour!">
+    <img alt="ugodasilva67@gmail.com" height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ugo-da-silva-990a90139/">
+    <img alt="Linkedin Ugo DA SILVA" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
+  </a>
+</p>
+
 <!--
 **Articvolt/Articvolt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
