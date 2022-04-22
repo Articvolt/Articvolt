@@ -29,7 +29,7 @@ Je cherche constamment à progresser dans les différents langages informatiques
     <img alt="ugodasilva67@gmail.com" height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
   </a>
   <a href="https://www.linkedin.com/in/ugo-da-silva-990a90139/">
-    <img alt="Linkedin Ugo DA SILVA" width="50px" src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1650373348~hmac=e87add947e3cf632f871b4c21d98afac" />
+    <img alt="Linkedin Ugo DA SILVA" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
   </a>
 </p>
 
