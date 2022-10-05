@@ -26,10 +26,10 @@ Je cherche constamment à progresser dans les différents langages informatiques
 <p align="center">
   <br/>
   <a href="mailto:ugodasilva67@gmail.com?subject=Bonjour !">
-    <img alt="ugodasilva67@gmail.com" height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"/>
+    <img alt="ugodasilva67@gmail.com" height="50px" width="50px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" target="_blank"/>
   </a>
   <a href="https://www.linkedin.com/in/ugo-da-silva-990a90139/">
-    <img alt="Linkedin Ugo DA SILVA" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png"/>
+    <img alt="Linkedin Ugo DA SILVA" width="50px" src="https://img.icons8.com/color/48/000000/linkedin.png" target="_blank"/>
   </a>
 </p>
 
