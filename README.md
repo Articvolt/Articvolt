@@ -47,7 +47,7 @@ En 2022, j'ai rejoins une formation de remise à niveau dans le domaine du numé
 </details>
  
 <details>
-<summary>:mag_right: React</summary>
+<summary>:mag_right: Framework</summary>
   
 <br/>![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
