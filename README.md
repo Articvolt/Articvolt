@@ -68,7 +68,7 @@ En 2022, j'ai rejoins une formation de remise à niveau dans le domaine du numé
 
 ## 📊 Statistiques:
 
-![](https://github-readme-stats.vercel.app/api?username=Articvolt&theme=slateorange&hide_border=false&include_all_commits=false&count_private=true)
+![](https://github-readme-stats.vercel.app/api?username=Articvolt&theme=slateorange&hide_border=false&locale=fr&include_all_commits=false&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Articvolt&theme=slateorange&hide_border=faux&border_radius=4.6&locale=fr&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)<br/>
 
 
