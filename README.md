@@ -1,3 +1,6 @@
+
+![banner (1)](https://user-images.githubusercontent.com/98872263/196003764-b2ea250e-a218-43bd-8f40-f56d4e5a2ca1.png)
+
 # 💫 A propos de moi:
 Bienvenue sur mon profil Github ! 👋
 Je m'appelle Ugo Da Silva et j'ai 25 ans. Je vis sur Strasbourg, en Alsace ! 
