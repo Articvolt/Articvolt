@@ -3,7 +3,7 @@
 
 # 💫 A propos de moi:
 Bienvenue sur mon profil Github ! 👋
-Je m'appelle Ugo Da Silva et j'ai 25 ans. Je vis sur Strasbourg, en Alsace ! 
+Je m'appelle Ugo Da Silva et j'ai 26 ans. Je vis sur Strasbourg, en Alsace ! 
 
 Je suis développeur web. J'ai toujours eu une passion pour l'informatique, et j'ai pû rapidement accéder à ce magnifique outil dès mon plus jeune âge !
 
@@ -14,6 +14,8 @@ Avec le confinement de 2020 à 2022, je me voyais pas me tourner les pouces, don
 En 2022, j'ai rejoins une formation de remise à niveau dans le domaine du numérique pour compléter et consolider mes connaissances !
 
 En fin 2022, j'ai effectué un formation pour obtenir le titre professionnel de "développeur web et web mobile" (niveau V), que j'ai validé en début 2023.
+
+Je travaille actuellement au sein de l'entreprise ATI4group en tant qu'alternant pour le titre de "développeur concepteur d'applications" (niveau VI) et je me forme sur Magento 2.
 
 ## 🌐 Mes réseaux sociaux:
 
@@ -35,6 +37,7 @@ En fin 2022, j'ai effectué un formation pour obtenir le titre professionnel de 
 <summary>:computer: Editeur de code</summary>
 
 <br/>![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
+![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
 </details>
 
 <details open>
@@ -49,6 +52,8 @@ En fin 2022, j'ai effectué un formation pour obtenir le titre professionnel de 
   
 <br/>![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
 </details>
  
 <details>
@@ -56,6 +61,7 @@ En fin 2022, j'ai effectué un formation pour obtenir le titre professionnel de 
   
 <br/>![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 </details>
   
 <details>
@@ -63,6 +69,16 @@ En fin 2022, j'ai effectué un formation pour obtenir le titre professionnel de 
   
 <br/>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</details>
+
+<details>
+<summary> Outils de développement</summary>
+  
+<br/>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 </details>
 <br/>
 
