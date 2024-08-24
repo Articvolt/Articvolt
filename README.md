@@ -56,6 +56,12 @@ Je travaille actuellement au sein de l'entreprise ATI4group en tant qu'alternant
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 </details>
+
+<details open>
+<summary>:computer: CMS</summary>
+  
+<br/>![Magento Badge](https://img.shields.io/badge/Magento-EE672F?logo=magento&logoColor=fff&style=for-the-badge)
+</details>
  
 <details open>
 <summary>:mag_right: Framework</summary>
