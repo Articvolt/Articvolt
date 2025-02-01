@@ -24,7 +24,7 @@ My name is Ugo DA SILVA,  I am a Magento 2 developer based in Strasbourg, Alsace
   <img src="https://img.shields.io/badge/Atlassian-282C34?logo=atlassian&logoColor=#0052CC" alt="atlassian logo" title="Atlassian" height="25" />
   <img src="https://img.shields.io/badge/Docker-282C34?logo=docker&logoColor=#2496ED" alt="docker logo" title="Docker" height="25" />
   <img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=#F24E1E" alt="figma logo" title="Figma" height="25" />
-  <img src="https://img.shields.io/badge/Platformdotsh-282C34?logo=platformdotsh&logoColor=#1A182A" alt="platformdotsh logo" title="Platformdotsh" height="25" />
+  <img src="https://img.shields.io/badge/Platform.sh-282C34?logo=platformdotsh&logoColor=#1A182A" alt="platformdotsh logo" title="Platformdotsh" height="25" />
   <img src="https://img.shields.io/badge/iterm2-282C34?logo=iterm2&logoColor=#000000" alt="iterm2 logo" title="iterm2" height="25" />
 </p>
 
