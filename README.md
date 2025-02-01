@@ -1,7 +1,7 @@
 
 ![banner (1)](https://user-images.githubusercontent.com/98872263/196003764-b2ea250e-a218-43bd-8f40-f56d4e5a2ca1.png)
 
-💫 About Me:
+## 💫 About Me:
 
 Welcome to my GitHub profile! 👋
 
@@ -9,17 +9,17 @@ My name is Ugo Da Silva, and I am 28 years old, based in Strasbourg, Alsace! �
 
 I am a dedicated web developer with a deep passion for technology and innovation. From an early age, I was captivated by the limitless possibilities of computing, which led me to immerse myself in the ever-evolving world of software development.
 
-🎓 My Educational Journey
+## 🎓 My Educational Journey
 
 I transitioned into web development through professional training programs, acquiring strong skills in modern development practices:
 
-2022-2023: Completed a Web & Mobile Developer (DWWM - Level V) professional certification.
+**2022-2023**: Completed a Web & Mobile Developer (DWWM - Level V) professional certification.
 
-2023-2024: Pursued an Application Designer & Developer (CDA - Level VI) certification through an apprenticeship.
+**2023-2024**: Pursued an Application Designer & Developer (CDA - Level VI) certification through an apprenticeship.
 
-Currently working at ATI4Group as a full-time web developer, specializing in Magento 2.
+Currently working at ATI4Group as a full-time web developer, specializing in **Magento 2**.
 
-## 🌐 Mes réseaux sociaux:
+## 🌐 Connect with Me:
 
 <p align="center">
   <br/>
@@ -34,9 +34,9 @@ Currently working at ATI4Group as a full-time web developer, specializing in Mag
   </a>
 </p>
 
-## 💻 Mes compétences:
+## 💻 Skills & Technologies :
 <details open>
-<summary>:computer: Editeur de code</summary>
+<summary>:computer: Code editor</summary>
 
 <br/>![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=Visual+Studio+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 ![PhpStorm](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)
@@ -81,14 +81,14 @@ Currently working at ATI4Group as a full-time web developer, specializing in Mag
 </details>
   
 <details>
-<summary>:wrench: Maquettage Web</summary>
+<summary>:wrench: Web design</summary>
   
 <br/>![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 </details>
 
 <details>
-<summary> Outils de développement</summary>
+<summary> Development tools</summary>
   
 <br/>![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
@@ -100,7 +100,7 @@ Currently working at ATI4Group as a full-time web developer, specializing in Mag
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Articvolt&theme=slateorange&hide_border=false&locale=fr&include_all_commits=false&count_private=true&layout=compact)
 
-## 📊 Statistiques:
+## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=Articvolt&theme=slateorange&hide_border=false&locale=fr&include_all_commits=false&count_private=true)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Articvolt&theme=slateorange&hide_border=faux&border_radius=4.6&locale=fr&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)<br/>
