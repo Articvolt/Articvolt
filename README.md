@@ -30,6 +30,9 @@ My name is Ugo DA SILVA,  I am a Magento 2 developer based in Strasbourg, Alsace
 
 
 ## 📊 GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=articvolt&theme=vue-dark&layout=compact" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=articvolt&theme=vue-dark&rank_icon=github" alt="GitHub Stats" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Articvolt&theme=slateorange&hide_border=false&locale=fr&include_all_commits=false&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Articvolt&theme=slateorange&hide_border=faux&border_radius=4.6&locale=fr&date_format=%5BY%20%5DM%20j)](https://git.io/streak-stats)<br/>
