@@ -1,21 +1,23 @@
 
 ![banner (1)](https://user-images.githubusercontent.com/98872263/196003764-b2ea250e-a218-43bd-8f40-f56d4e5a2ca1.png)
 
-# 💫 A propos de moi:
-Bienvenue sur mon profil Github ! 👋
-Je m'appelle Ugo Da Silva et j'ai 26 ans. Je vis sur Strasbourg, en Alsace ! 
+💫 About Me:
 
-Je suis développeur web. J'ai toujours eu une passion pour l'informatique, et j'ai pû rapidement accéder à ce magnifique outil dès mon plus jeune âge !
+Welcome to my GitHub profile! 👋
 
-## 🎓 Mon parcours d'étude 
-J'ai longtemps suivi mon autre passion : les sciences du vivant et malheureusement, c'est un domaine qui sature énormément.
-Avec le confinement de 2020 à 2022, je me voyais pas me tourner les pouces, donc j'ai commencé à m'entraîner à coder sur Internet, en autodidacte et avec l'appui de sites comme OpenClassroom.
+My name is Ugo Da Silva, and I am 28 years old, based in Strasbourg, Alsace! 🇫🇷
 
-En 2022, j'ai rejoins une formation de remise à niveau dans le domaine du numérique pour compléter et consolider mes connaissances !
+I am a dedicated web developer with a deep passion for technology and innovation. From an early age, I was captivated by the limitless possibilities of computing, which led me to immerse myself in the ever-evolving world of software development.
 
-En fin 2022, j'ai effectué un formation pour obtenir le titre professionnel de "développeur web et web mobile" (niveau V), que j'ai validé en début 2023.
+🎓 My Educational Journey
 
-Je travaille actuellement au sein de l'entreprise ATI4group en tant qu'alternant pour le titre de "développeur concepteur d'applications" (niveau VI) et je me forme sur Magento 2.
+I transitioned into web development through professional training programs, acquiring strong skills in modern development practices:
+
+2022-2023: Completed a Web & Mobile Developer (DWWM - Level V) professional certification.
+
+2023-2024: Pursued an Application Designer & Developer (CDA - Level VI) certification through an apprenticeship.
+
+Currently working at ATI4Group as a full-time web developer, specializing in Magento 2.
 
 ## 🌐 Mes réseaux sociaux:
 
